@@ -4,7 +4,7 @@ This is a simple project to test the compatibility of vue.js and firebase.
 
 Tutorial: https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase
 
-Demo: vuegram-2bfa6.web.app
+Demo: https://vuegram-2bfa6.web.app/
 
 ## Project setup
 ```
